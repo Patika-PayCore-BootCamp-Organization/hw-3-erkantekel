@@ -1,11 +1,8 @@
 # hw-3-erkantekel
 
 1 – SOAP vs Restful ?
-
 2 - Difference between acceptance test and functional test ?
-
 3 - What is Mocking ?
-
 4 - What is a reasonable code coverage % for unit tests (and why) ?
 
 5 – HTTP/POST vs HTTP/PUT ?
